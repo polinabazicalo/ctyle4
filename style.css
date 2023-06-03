@@ -1,0 +1,84 @@
+body {
+    font-family: sans-serif;
+}
+header{
+    background-color:Silver ;
+    border-radius: 20px;
+}
+header img{
+    padding: 10px;
+}
+h1{
+    color: #FFFF00;
+    font-size: 40px;
+    background-color: white;
+}
+footer{
+    color: rgb(0, 0, 0);
+    background-color: LavenderBlush;
+}
+nav a{
+    color: rgb(0, 0, 0);
+    border-radius: 5px;
+    margin: 3px;
+    padding: 5px;
+    text-decoration: none;
+    background-color:Pink;
+}
+.poi{
+    color: oldlace;
+    background-color: LightSalmon;
+    border-radius: 1px;
+    margin: 3px;
+    padding: 5px;
+    text-decoration: none;
+}
+.tov{
+background-color: body 
+    font-family: sans-serif;
+}
+header{
+    background-color:Silver ;
+    border-radius: 20px;
+}
+header img{
+    padding: 10px;
+}
+h1{
+    color: #FFFF00;
+    font-size: 40px;
+    background-color: white;
+}
+footer{
+    color: rgb(0, 0, 0);
+    background-color: LavenderBlush;
+}
+nav a{
+    color: rgb(0, 0, 0);
+    border-radius: 5px;
+    margin: 3px;
+    padding: 5px;
+    text-decoration: none;
+    background-color:Pink;
+}
+.poi{
+    color: oldlace;
+    background-color: LightSalmon;
+    border-radius: 5px;
+    margin: 3px;
+    padding: 5px;
+    text-decoration: none;
+}
+.tov{
+   background-color: greenyellow; 
+   padding: 5px;  
+   border-radius: 5px; 
+   color: silver;
+}
+main{
+    margin: 10px;
+    font-size: 20px;
+}
+main h2{
+    color: blue;
+}
